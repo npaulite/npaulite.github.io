@@ -1,0 +1,28 @@
+* {
+    margin-top: 40px;
+    text-align: center;
+    font-family: Arial;
+}
+
+h1 {
+    color: green;
+}
+
+main {
+    margin-top: 60px;
+}
+
+.images {
+    display: flex;
+    flex-direction: row;
+}
+
+.code {
+    max-width: 50%;
+    max-height: 50%;
+}
+
+.game {
+    max-width: 50%;
+    max-height: 50%;
+}
